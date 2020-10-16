@@ -1,0 +1,10 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": ["javascript"],
+  "editor.codeActionsOnSaveTimeout": 2500,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+}
